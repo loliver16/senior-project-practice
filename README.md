@@ -1,7 +1,17 @@
 # senior-project-practice
 
-# Name: Lauren Oliver
-# Senior Project 1 Group 24
-# Tech stack: VS Code, Git, Python
+**Senior Project 1 Group 24**
 
-# Description: Imporiving my git and github skills
+**Tech Stack:** VS Code, Git, Python
+
+**Description:** Imporiving my git and github skills
+
+# Student Developer Profile
+
+**Name:** Lauren Oliver
+**Technology Interest:** Backend Developemnt and Database Work
+
+**Senior Project Skill Goal:** To better understand the data flow through a system and pipelines
+
+## Development Workflow
+Branch → Code → Commit → Push → Pull Request → Review → Merge
